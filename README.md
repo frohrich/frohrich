@@ -35,3 +35,4 @@ Estou estudando diariamente e atualizando meus projetos conforme aprendo novas t
 
 📫 **Contato:**  
 - GitHub: https://github.com/frohrich
+- Linkedin: https://www.linkedin.com/in/gabriel-vitor-frohrich-barros-b84303293/
